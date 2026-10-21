@@ -3,4 +3,4 @@ const games = [
  { id: 2, title: 'Minecraft', genre: 'Sandbox', platform: 'Multiplataforma' },
  { id: 3, title: 'Valorant', genre: 'Shooter', platform: 'PC' }
 ];
-module.exports = games;
+export default games;
